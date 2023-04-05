@@ -1,0 +1,32 @@
+/* Estilos da página index.html*/
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.container-video{ 
+    display: flex; 
+    justify-content: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+
+}
+
+#menu li a {
+    text-decoration: none;
+    color: blue;
+}
+
+#menu li a :hover {
+    color:black
+}
+
+/* Estilos da página saúde.html*/
